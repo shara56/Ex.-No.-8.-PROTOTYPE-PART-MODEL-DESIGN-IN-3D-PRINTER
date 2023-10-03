@@ -1,15 +1,12 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
 ### DATE: 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
-
 ## REQUIREMENTS:
 ### ●	3D Printer machine.
 ### ●	CURA 4.0 Software.
 ### ●	Autodesk Fusion 360 Software.
 ### ●	System - Windows 7 or higher, 1 GB RAM.
-
 ## PROCEDURE:
 
 ### Step 1:- Check all Electrical connections.
@@ -46,9 +43,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/hariprasath5106/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/111515488/5370de61-3404-42ca-84ff-5056549eb5b3)
 
-### Name:
-### Register Number:
-
+### Name: SHARANGINI T K
+### Register Number: 212222230143
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
+
